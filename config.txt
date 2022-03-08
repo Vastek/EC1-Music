@@ -1,0 +1,4 @@
+token = OTUwMTE2NTg5Njk5NzU2MDc0.YiUPBw.j7JyBPdISwoDSjOghOYvF9X2uvg
+owner = 705420504068259883
+prefix = "!"
+"name": "EC1 Musics",
